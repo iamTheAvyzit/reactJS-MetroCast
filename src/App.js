@@ -34,7 +34,7 @@ function App() {
     setlocFrmBttn(searchStr)
   }
   
-  const URL = `https://api.weatherapi.com/v1/forecast.json?key=86ff03a764544a5996874132210611&days=3&q=${locFrmBttn}`;
+  const URL = `https://api.weatherapi.com/v1/forecast.json?key={YOUR_API_KEY}&days=3&q=${locFrmBttn}`;
   
   useEffect(async () => {
     await fetch(URL)
