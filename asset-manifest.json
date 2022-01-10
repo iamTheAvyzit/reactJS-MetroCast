@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactJS-MetroCast/static/css/main.9f5ab703.chunk.css",
+    "main.js": "/reactJS-MetroCast/static/js/main.d95f4ea6.chunk.js",
+    "main.js.map": "/reactJS-MetroCast/static/js/main.d95f4ea6.chunk.js.map",
+    "runtime-main.js": "/reactJS-MetroCast/static/js/runtime-main.cd17ae1e.js",
+    "runtime-main.js.map": "/reactJS-MetroCast/static/js/runtime-main.cd17ae1e.js.map",
+    "static/js/2.f8cfd76b.chunk.js": "/reactJS-MetroCast/static/js/2.f8cfd76b.chunk.js",
+    "static/js/2.f8cfd76b.chunk.js.map": "/reactJS-MetroCast/static/js/2.f8cfd76b.chunk.js.map",
+    "index.html": "/reactJS-MetroCast/index.html",
+    "static/css/main.9f5ab703.chunk.css.map": "/reactJS-MetroCast/static/css/main.9f5ab703.chunk.css.map",
+    "static/js/2.f8cfd76b.chunk.js.LICENSE.txt": "/reactJS-MetroCast/static/js/2.f8cfd76b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd17ae1e.js",
+    "static/js/2.f8cfd76b.chunk.js",
+    "static/css/main.9f5ab703.chunk.css",
+    "static/js/main.d95f4ea6.chunk.js"
+  ]
+}
