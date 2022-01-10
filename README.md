@@ -1,3 +1,6 @@
+# MetroCast App Screenshot : 🔥🔥 Please do checkout the live version ✨✨
+![MetroCast](https://user-images.githubusercontent.com/94052679/148722366-ed0b5e3b-45d4-4f63-b3ef-40e67f90d5e6.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
